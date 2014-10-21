@@ -1,0 +1,31 @@
+
+=== GRAVITOID 0.01 beta ====
+Abdelfetah Hadij 
+
+
+
+
+===DEPENDENCIAS==
+Para poder compilar y ejecutar el juego necesita la libreria SFML .Pra instalarla haga lo siguiente :
+
+*GNU/LINUX:
+	Debian/ubuntu/similares :
+
+	>$ sudo apt-get install libsfml*
+	
+	OTROS :
+	
+	Busque en su gestor de paquetes sfml y intale todos los k empiecen por libsfml.
+		
+*Windows (codeblocks) :
+http://www.sfml-dev.org/tutorials/1.6/start-cb.php
+
+===COMPILAR===
+
+En sistemas linux ejecute make en el directorio principal del proyecto:
+$make
+
+
+NOTA : EL archivo precompilado es valido para linux x86_64
+
+
